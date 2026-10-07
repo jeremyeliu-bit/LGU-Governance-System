@@ -4,6 +4,12 @@ A desktop-based Local Government Unit (LGU) management dashboard built with Java
 
 Role-Based Portals
 
+To access the different dashboards and test the system's role-based features, use the following default credentials on the login screen:
+
+* **Username:** `test`
+* **Password:** `test`
+
+*(Note: In the current testing environment, these credentials will grant access to all portal interfaces including Citizen, Staff, Assessor, and Treasurer).*
 <img width="381" height="242" alt="image" src="https://github.com/user-attachments/assets/b1517b99-de6c-4517-8f04-cc6481c0b386" />
 
 Public Citizen Portal: Allows citizens to submit business permit applications (New/Renewal) and view approved municipal budget transparency ledgers.
