@@ -13,8 +13,11 @@ Automated Tracking: Utilizes automated MySQL Database Triggers (AFTER INSERT, AF
 Role Attribution: Captures the exact user_role (CITIZEN, ASSESSOR, STAFF, TREASURER) and associates it with specific actions and timestamps.
 CSV Export: One-click data extraction allowing administrators to export the full audit ledger to a .csv file for external reporting.
 
-🛠️ Tech Stack
+
 Frontend: Java Swing (GUI)
+
 Backend: Java (Core)
+
 Database: MySQL (JDBC connector)
+
 Architecture: Object-Oriented Programming (OOP), MVC-inspired DAO pattern
